@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdarshRoy16
+- 👋 Hi, I’m AdarshRoy
 - 👀 Interested in Salesforce Domain Exploring and creating Effective solutions for Client
 - 🌱 Currently learning Salesforce Marketing Cloud
 - 💞️ I’m looking to collaborate on SFMC & SFDC
